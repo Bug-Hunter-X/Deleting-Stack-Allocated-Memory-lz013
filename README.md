@@ -1,0 +1,1 @@
+This repository demonstrates a common C++ error: attempting to delete a pointer to a stack-allocated variable.  The code in `bug.cpp` illustrates the incorrect behavior.  `bugSolution.cpp` shows the corrected code, explaining why deleting stack memory is wrong and how to avoid the error.
